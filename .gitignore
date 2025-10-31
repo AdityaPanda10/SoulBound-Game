@@ -1,0 +1,55 @@
+# =============== Unity Specific ===============
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+MemoryCaptures/
+sysinfo.txt
+
+# =============== WebGL and Build Files ===============
+WebGL/
+WebGLBuild/
+Build/
+Builds/
+
+# =============== IDE / Editor Files ===============
+*.csproj
+*.unityproj
+*.sln
+*.user
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+.vscode/
+.idea/
+.vs/
+.vsconfig
+
+# =============== OS / Cache / Misc ===============
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+
+# =============== Packages and Unity Store Cache ===============
+Packages/com.unity.package-manager-cache/
+
+# =============== Compressed or Large Files ===============
+*.zip
+*.rar
+*.7z
+*.tar
+*.gz
+*.exe
+*.mp4
+*.wav
+*.png
+*.jpg
+*.psd
