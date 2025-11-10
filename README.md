@@ -1,1 +1,1 @@
-SoulBound Game Project by <your name>
+SoulBound Game Project by <GRP 18>
